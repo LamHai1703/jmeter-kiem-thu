@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1792113634115,5966,GET - Lay 1 bai viet /posts/1,200,OK,TG1 - API Functional 1-1,text,true,,1255,198,1,1,https://jsonplaceholder.typicode.com/posts/1,5962,0,5909
+1792113640085,59,GET - Danh sach bai viet /posts,200,OK,TG1 - API Functional 1-1,text,true,,28484,196,1,1,https://jsonplaceholder.typicode.com/posts,32,0,0
+1792113640145,34,GET - Thong tin user /users/1,200,OK,TG1 - API Functional 1-1,text,true,,1467,198,1,1,https://jsonplaceholder.typicode.com/users/1,34,0,0
+1792113640181,177,POST - Tao bai viet moi /posts,201,Created,TG1 - API Functional 1-1,text,true,,1144,285,1,1,https://jsonplaceholder.typicode.com/posts,177,0,0

@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1792113672246,485,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-1,text,true,,933,116,2,2,https://example.com/,478,0,412
+1792113672736,160,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-1,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,155,0,114
+1792113672897,41,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-1,text,true,,933,116,2,2,https://example.com/,41,0,0
+1792113672939,30,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-1,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,28,0,0
+1792113672971,74,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-1,text,true,,933,116,2,2,https://example.com/,34,0,0
+1792113673046,30,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-1,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,27,0,0
+1792113672677,425,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-2,text,true,,933,116,1,1,https://example.com/,425,0,372
+1792113673103,237,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-2,text,true,,11681,133,2,2,https://www.iana.org/domains/reserved,232,0,170
+1792113673176,196,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-3,text,true,,933,116,2,2,https://example.com/,193,0,155
+1792113673344,48,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-2,text,true,,933,116,2,2,https://example.com/,45,0,0
+1792113673393,53,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-2,text,true,,11681,133,2,2,https://www.iana.org/domains/reserved,43,0,0
+1792113673447,44,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-2,text,true,,933,116,2,2,https://example.com/,44,0,0
+1792113673492,75,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-2,text,true,,11681,133,2,2,https://www.iana.org/domains/reserved,49,0,0
+1792113673373,243,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-3,text,true,,11683,133,1,1,https://www.iana.org/domains/reserved,227,0,170
+1792113673617,25,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-3,text,true,,933,116,1,1,https://example.com/,25,0,0
+1792113673643,66,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-3,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,46,0,0
+1792113673710,27,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-3,text,true,,933,116,2,2,https://example.com/,26,0,0
+1792113673737,70,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-3,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,43,0,0
+1792113673666,165,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-4,text,true,,933,116,1,1,https://example.com/,165,0,115
+1792113673833,155,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-4,text,true,,11683,133,1,1,https://www.iana.org/domains/reserved,135,0,109
+1792113673989,41,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-4,text,true,,933,116,1,1,https://example.com/,41,0,0
+1792113674030,47,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-4,text,true,,11683,133,1,1,https://www.iana.org/domains/reserved,24,0,0
+1792113674078,44,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-4,text,true,,933,116,1,1,https://example.com/,44,0,0
+1792113674123,45,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-4,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,23,0,0
+1792113674169,141,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-5,text,true,,933,116,1,1,https://example.com/,141,0,84
+1792113674312,201,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-5,text,true,,11682,133,1,1,https://www.iana.org/domains/reserved,184,0,133
+1792113674514,13,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-5,text,true,,933,116,1,1,https://example.com/,13,0,0
+1792113674528,55,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-5,text,true,,11682,133,1,1,https://www.iana.org/domains/reserved,29,0,0
+1792113674584,13,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-5,text,true,,933,116,1,1,https://example.com/,13,0,0
+1792113674598,48,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-5,text,true,,11682,133,1,1,https://www.iana.org/domains/reserved,28,0,0
+1792113674666,220,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-6,text,true,,933,116,1,1,https://example.com/,220,0,168
+1792113674888,215,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-6,text,true,,11683,133,1,1,https://www.iana.org/domains/reserved,203,0,148
+1792113675104,48,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-6,text,true,,933,116,1,1,https://example.com/,48,0,0
+1792113675153,72,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-6,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,55,0,0
+1792113675226,55,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-6,text,true,,933,116,2,2,https://example.com/,55,0,0
+1792113675282,68,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-6,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,53,0,0
+1792113675166,259,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-7,text,true,,933,116,1,1,https://example.com/,258,0,160
+1792113675426,284,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-7,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,269,0,186
+1792113675711,45,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-7,text,true,,933,116,2,2,https://example.com/,45,0,0
+1792113675667,157,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-8,text,true,,936,116,2,2,https://example.com/,157,0,119
+1792113675757,97,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-7,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,74,0,0
+1792113675855,54,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-7,text,true,,933,116,2,2,https://example.com/,53,0,0
+1792113675910,74,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-7,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,74,0,0
+1792113675826,258,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-8,text,true,,11682,133,1,1,https://www.iana.org/domains/reserved,235,0,170
+1792113676085,30,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-8,text,true,,936,116,1,1,https://example.com/,30,0,0
+1792113676116,85,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-8,text,true,,11682,133,2,2,https://www.iana.org/domains/reserved,65,0,0
+1792113676202,34,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-8,text,true,,936,116,2,2,https://example.com/,34,0,0
+1792113676164,159,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-9,text,true,,933,116,2,2,https://example.com/,159,0,96
+1792113676237,102,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-8,text,true,,11682,133,2,2,https://www.iana.org/domains/reserved,57,0,0
+1792113676325,205,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-9,text,true,,11683,133,1,1,https://www.iana.org/domains/reserved,204,0,143
+1792113676532,17,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-9,text,true,,933,116,1,1,https://example.com/,16,0,0
+1792113676550,83,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-9,text,true,,11683,133,1,1,https://www.iana.org/domains/reserved,42,0,0
+1792113676634,17,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-9,text,true,,933,116,1,1,https://example.com/,17,0,0
+1792113676652,41,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-9,text,true,,11683,133,2,2,https://www.iana.org/domains/reserved,40,0,0
+1792113676666,209,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-10,text,true,,933,116,1,1,https://example.com/,209,0,156
+1792113676877,229,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-10,text,true,,11682,133,1,1,https://www.iana.org/domains/reserved,221,0,157
+1792113677107,46,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-10,text,true,,933,116,1,1,https://example.com/,46,0,0
+1792113677154,68,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-10,text,true,,11682,133,1,1,https://www.iana.org/domains/reserved,52,0,0
+1792113677223,47,GET - Trang chu,200,OK,TG1 - Trang chu example.com 1-10,text,true,,933,116,1,1,https://example.com/,47,0,0
+1792113677271,73,GET - IANA Reserved Domains,200,OK,TG1 - Trang chu example.com 1-10,text,true,,11682,133,1,1,https://www.iana.org/domains/reserved,52,0,0

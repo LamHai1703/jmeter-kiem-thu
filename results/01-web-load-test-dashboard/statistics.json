@@ -1,0 +1,50 @@
+{
+  "GET - Trang chu" : {
+    "transaction" : "GET - Trang chu",
+    "sampleCount" : 30,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 105.96666666666668,
+    "medianResTime" : 47.5,
+    "minResTime" : 13.0,
+    "maxResTime" : 485.0,
+    "pct1ResTime" : 255.10000000000008,
+    "pct2ResTime" : 451.99999999999994,
+    "pct3ResTime" : 485.0,
+    "throughput" : 5.971337579617835,
+    "receivedKBytesPerSec" : 5.442431018610669,
+    "sentKBytesPerSec" : 0.6764405851910829
+  },
+  "GET - IANA Reserved Domains" : {
+    "transaction" : "GET - IANA Reserved Domains",
+    "sampleCount" : 30,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 115.63333333333331,
+    "medianResTime" : 74.5,
+    "minResTime" : 30.0,
+    "maxResTime" : 284.0,
+    "pct1ResTime" : 242.4,
+    "pct2ResTime" : 269.7,
+    "pct3ResTime" : 284.0,
+    "throughput" : 6.510416666666667,
+    "receivedKBytesPerSec" : 74.27533467610678,
+    "sentKBytesPerSec" : 0.8455912272135417
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 60,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 110.79999999999998,
+    "medianResTime" : 69.0,
+    "minResTime" : 13.0,
+    "maxResTime" : 485.0,
+    "pct1ResTime" : 242.39999999999998,
+    "pct2ResTime" : 282.7499999999999,
+    "pct3ResTime" : 485.0,
+    "throughput" : 11.769321302471557,
+    "receivedKBytesPerSec" : 72.49970883189486,
+    "sentKBytesPerSec" : 1.4309379903883876
+  }
+}
