@@ -177,19 +177,19 @@ Giải thích tham số: `-n` = non-GUI, `-t` = file Test Plan, `-l` = file kế
 
 #### Biểu đồ 1 — Thời gian phản hồi trung bình và P95 theo sampler
 
-![Bieu do Avg va P95](screenshots/chart-avg-p95.png)
+![Bieu do Avg va P95](screenshots/chart-avg-p95.svg)
 
 > Đọc biểu đồ: mọi sampler đều có thời gian trung bình dưới 200 ms (trừ request cold-start ở kịch bản 02). P95 dưới 300 ms ở tất cả các kịch bản tải.
 
 #### Biểu đồ 2 — Throughput theo kịch bản
 
-![Bieu do Throughput](screenshots/chart-throughput.png)
+![Bieu do Throughput](screenshots/chart-throughput.svg)
 
 > Throughput tăng từ 11,77 req/s (web, 10 users) lên 53,84 req/s (API, 50 users) — API nhẹ hơn trang web nên xử lý được nhiều request hơn. Cả 3 kịch bản đều **0% lỗi**.
 
 #### Biểu đồ 3 — Kịch bản Stress 50 users: thời gian phản hồi theo thời gian chạy
 
-![Bieu do Stress theo thoi gian](screenshots/chart-stress-over-time.png)
+![Bieu do Stress theo thoi gian](screenshots/chart-stress-over-time.svg)
 
 > Các chấm phân tán đều quanh 50–150 ms, không có xu hướng tăng dần theo thời gian → hệ thống không bị nghẽn khi duy trì 50 users đồng thời trong ~10 giây.
 
@@ -246,9 +246,9 @@ Mở bằng trình duyệt (double-click file):
 │   ├── 03-load-stress-test.jtl
 │   └── 03-load-stress-test-dashboard/index.html
 ├── screenshots/
-│   ├── chart-avg-p95.png
-│   ├── chart-throughput.png
-│   ├── chart-stress-over-time.png
+│   ├── chart-avg-p95.svg
+│   ├── chart-throughput.svg
+│   ├── chart-stress-over-time.svg
 │   └── gui-*.png               # Sinh viên chụp thêm bằng JMeter GUI
 └── docs/
     ├── huong-dan-chay.md
