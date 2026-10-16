@@ -1,8 +1,8 @@
 # Bài tập môn Kiểm thử — Học công cụ kiểm thử Apache JMeter
 
-> **Sinh viên:** *(điền họ tên)*
-> **MSSV:** *(điền MSSV)*
-> **Lớp:** *(điền lớp)*
+> **Sinh viên:** Chu Nam Hải
+> **MSSV:** 23010621
+
 > **Môn:** Kiểm thử phần mềm
 > **Công cụ:** Apache JMeter 5.6.3 + Java 17
 > **Ngày chạy thử nghiệm:** 16/10/2026
