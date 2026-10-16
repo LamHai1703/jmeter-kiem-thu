@@ -1,0 +1,5 @@
+# JMeter
+*.log
+# Giữ lại file .jtl vì đó là bằng chứng kết quả — không ignore .jtl
+# File tạm của JMeter GUI
+jmeter.log
